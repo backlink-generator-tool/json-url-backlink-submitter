@@ -20,4 +20,4 @@ A lightweight JavaScript tool that reads a list of URLs from a JSON file and aut
 Add the script to your webpage:
 
 ```html
-<script src="jsonUrlBacklinkSubmitter.js"></script>
+<script src="https://backlink-generator-tool.github.io/json-url-backlink-submitter/jsonUrlBacklinkSubmitter.js"></script>
